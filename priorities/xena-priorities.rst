@@ -29,7 +29,6 @@ Because of  distributed and interaction between components of the cloud platform
 Current function
 ============
 
-
 Provide a simple and easy-to-use way to retrieve all log and the context .
 Realize log association, field value statistics, and provide multi-scene and multi-dimensional visual analysis reports.
 
