@@ -6,6 +6,7 @@ Xena Cycle Themes
 PTG:  https://etherpad.opendev.org/p/venus-xena-ptg
 
 Introduction
+============
 Venus is the OpenStack project that provides a one-stop solution for
 log collection, indexing, analysis, alerting, visualization, report generation
 and other needs. Additionally, this project plans to use machine learning
@@ -14,6 +15,7 @@ operation and maintenance efficiency.
 
 
 TODO
+============
 Sign up(deadline March 25th): next PTL's task because "Who will be moderating their discussions?" is one of the question of the survey
 https://openinfrafoundation.formstack.com/forms/april2021_vptg_survey
 https://ethercalc.net/oz7q0gds9zfi
@@ -31,7 +33,6 @@ Current function
 
 Provide a simple and easy-to-use way to retrieve all log and the context .
 Realize log association, field value statistics, and provide multi-scene and multi-dimensional visual analysis reports.
-
 
 Current progress
 ============
