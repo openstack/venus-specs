@@ -21,8 +21,11 @@ The layout of this repository is::
 
 Where there are two sub-directories:
 
-  specs/<release>/approved: specifications approved but not yet implemented
-  specs/<release>/implemented: implemented specifications
+  specs/<release>/approved
+    specifications approved but not yet implemented
+
+  specs/<release>/implemented
+    implemented specifications
 
 This directory structure allows you to see what we thought about doing,
 decided to do, and actually got done. Users interested in functionality in a
