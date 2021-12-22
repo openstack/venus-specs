@@ -30,8 +30,8 @@ given release should only refer to the ``implemented`` directory.
 
 You can find an example spec in `doc/source/specs/template.rst`.
 
-To track all the blueprints of venus, please refer to the trello board:
-https://trello.com/b/4nFtHNSg/queens-dev
+To track all the blueprints of venus, please refer to the launchpad:
+https://blueprints.launchpad.net/openstack-venus
 
 To validate that the specification is syntactically correct (i.e. get more
 confidence in the Jenkins result), please execute the following command::
