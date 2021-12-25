@@ -10,7 +10,7 @@ Introduction
 Venus is the OpenStack project that provides a one-stop solution for
 log collection, indexing, analysis, alerting, visualization, report generation
 and other needs. Additionally, this project plans to use machine learning
-algorithms to quickly locate  failures and root causes, to improve
+algorithms to quickly locate failures and root causes, to improve
 operation and maintenance efficiency.
 
 
@@ -37,8 +37,8 @@ Realize log association, field value statistics, and provide multi-scene and mul
 Current progress
 ============
 
-Develop devstack-based depAdd log retrieval of other modules such as vitrage
-loyment for venus
+Develop devstack-based deployment for venus
+Add log retrieval of other modules such as vitrage
 Develop the configuration, based on which you can retrieve the chain log of the call
 
 
@@ -51,6 +51,6 @@ Develop a deployment method based on kolla-ansible
 Evaluate whether to collect event data (considering usage, pressure, etc.)
 Summarize the log specifications of some typical scenarios and develop them to venus
 
-Promblem
+Problem
 ============
 Many projects's log records are not standardized, so they can only support full-text retrieval, not multi-dimensional analysis
