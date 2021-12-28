@@ -149,31 +149,7 @@ Stein approved (but not implemented) specs:
 
 Rocky
 -----
-This section has a list of specs for the Rocky release.
 
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Rocky release) <specs/rocky-template>
-
-Rocky implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/rocky/implemented/*
-
-Rocky approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/rocky/approved/*
 
 Queens
 ------
