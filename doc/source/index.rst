@@ -93,31 +93,7 @@ Ussuri approved (but not implemented) specs:
 
 Train
 -----
-This section has a list of specs for the Train release.
 
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Train release) <specs/train-template>
-
-Train implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/train/implemented/*
-
-Train approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/train/approved/*
 
 Stein
 -----
