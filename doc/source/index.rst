@@ -65,31 +65,7 @@ Victoria approved (but not implemented) specs:
 
 Ussuri
 ------
-This section has a list of specs for the Ussuri release.
 
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Ussuri release) <specs/ussuri-template>
-
-Ussuri implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/ussuri/implemented/*
-
-Ussuri approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/ussuri/approved/*
 
 Train
 -----
