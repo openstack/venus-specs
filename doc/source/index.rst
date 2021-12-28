@@ -121,31 +121,7 @@ Train approved (but not implemented) specs:
 
 Stein
 -----
-This section has a list of specs for the Stein release.
 
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Stein release) <specs/stein-template>
-
-Stein implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/stein/implemented/*
-
-Stein approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/stein/approved/*
 
 Rocky
 -----
