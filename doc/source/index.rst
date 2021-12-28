@@ -37,31 +37,7 @@ Wallaby approved (but not implemented) specs:
 
 Victoria
 --------
-This section has a list of specs for the Victoria release.
 
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Victoria release) <specs/victoria-template>
-
-Victoria implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/victoria/implemented/*
-
-Victoria approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/victoria/approved/*
 
 Ussuri
 ------
