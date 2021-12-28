@@ -388,5 +388,5 @@ what's happened along the time.
 
    * - Release Name
      - Description
-   * - Wallaby
+   * - Yoga
      - Introduced
