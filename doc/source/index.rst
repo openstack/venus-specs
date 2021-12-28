@@ -9,31 +9,7 @@ Venus Specs
 
 Wallaby
 -------
-This section has a list of specs for the Wallaby release.
 
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Wallaby release) <specs/wallaby-template>
-
-Wallaby implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/wallaby/implemented/*
-
-Wallaby approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/wallaby/approved/*
 
 Victoria
 --------
