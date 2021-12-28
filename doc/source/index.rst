@@ -205,28 +205,3 @@ Queens approved (but not implemented) specs:
 
 Pike
 ----
-This section has a list of specs for the Pike release.
-
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Pike release) <specs/pike-template>
-
-Pike implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/pike/implemented/*
-
-Pike approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/pike/approved/*
