@@ -177,31 +177,7 @@ Rocky approved (but not implemented) specs:
 
 Queens
 ------
-This section has a list of specs for the Queens release.
 
-Template:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   Specification Template (Queens release) <specs/queens-template>
-
-Queens implemented specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/queens/implemented/*
-
-Queens approved (but not implemented) specs:
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-
-   specs/queens/approved/*
 
 Pike
 ----
