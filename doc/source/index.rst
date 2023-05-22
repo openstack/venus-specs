@@ -6,6 +6,63 @@
 ============
 Venus Specs
 ============
+
+2023.2 Bobcat
+----
+This section has a list of specs for the Bobcat release.
+
+Template:
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   Specification Template (2023.2 Bobcat release) <specs/2023.2-Bobcat-template>
+
+2023.2 Bobcat implemented specs:
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   specs/2023.2/implemented/*
+
+2023.2 Bobcat approved (but not implemented) specs:
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   specs/2023.2/approved/*
+
+2023.1 Antelope
+----
+This section has a list of specs for the Antelope release.t
+
+Template:
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   Specification Template (2023.1 Antelope release) <specs/2023.1-Antelope-template>
+
+2023.1 Antelope implemented specs:
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   specs/2023.1/implemented/*
+
+2023.1 Antelope approved (but not implemented) specs:
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+
+   specs/2023.1/approved/*
+
 Yoga
 ----
 This section has a list of specs for the Yoga release.
